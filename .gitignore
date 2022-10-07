@@ -13,6 +13,7 @@ cloud-functions/functions/node_modules
 .firebaserc
 firebase-debug.log
 .firebase
+package-lock.json
 
 */node_modules/**
 web/public/**/*.js
